@@ -77,14 +77,14 @@ nav a:hover{
     top: 40%;
     left: 10%;
     font-size: 150px;
-    color: rgba(17, 9, 69, 1);
+    color: rgb(242, 241, 246);
 }
 
 .hero p{
     position: absolute;
     top: 80%;
     left: 10%;
-    color: rgb(17, 9, 69);
+    color: rgb(242, 241, 246);
 }
 
 section{
