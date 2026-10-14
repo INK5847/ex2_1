@@ -52,6 +52,7 @@ nav{
 nav a{
     padding: 50px;
     font-weight: bold;
+    color: rgb(242, 241, 246);
 }
 
 nav a:hover{
